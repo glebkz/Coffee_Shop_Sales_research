@@ -1,2 +1,2 @@
-# Coffee_Shop_Sales_Research
+# Coffee shop sales research
 Анализ продаж сети кофеен: расчёты, визуализация, выводы и гипотезы.
