@@ -2,8 +2,8 @@
 Анализ продаж сети кофеен: расчёты, визуализация, выводы и гипотезы.
 
 ## Содержимое репозитория
-- "Coffee_Shop_Sales_Research.ipynb" — основной ноутбук с анализом.  
-- "Coffee_Shop_Sales.xlsx" — исходные данные.
+- "Coffee_Shop_Sales_Research.ipynb" - основной ноутбук с анализом.  
+- "Coffee_Shop_Sales.xlsx" - исходные данные.
 
 ---
 
